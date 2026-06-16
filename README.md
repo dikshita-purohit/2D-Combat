@@ -126,6 +126,12 @@ Changes affect newly fired projectiles without restarting the scene.
 | Move            | WASD / Arrow Keys |
 | Fire Projectile | Spacebar          |
 
+---
+
+## Unity Version
+Unity 2022.3.22f1
+
+---
 
 ## Future Improvements
 
